@@ -8,7 +8,7 @@ The app use HTML, CSS and Javascript. The JS code made use of Fetch to call the 
 
 It also made use of geolocalization, detecting the ubication of the client and showing this as a first result before searching a city. However, this feauture is not working anymore on Google Chrome due to some incompatibility. But you can still see this working on Firefox. (I will try to fix it for Google Chrome in the next updates).
 
-**[You can see the app working here]**(https://oscarandio.github.io/Aplicacion-del-tiempo/)
+[You can see the app working here](https://oscarandio.github.io/Aplicacion-del-tiempo/)
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-tokyo.jpg)
 
