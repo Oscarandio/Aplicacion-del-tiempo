@@ -12,12 +12,14 @@ It also made use of geolocalization, detecting the ubication of the client and s
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-tokyo.jpg)
 
+## Last Updates
+
+- Show the temperature number without decimals.
 
 ## Next Updates
 
 - Some features can be added in the next updates, like a clock and some other weather information (precipitation).
 - A few improvings in the design are possible, like coloring the temperature number.
-- Show the temperature number without decimals.
 - Fix the geolocalization for Google Chrome.
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-madrid.jpg)
