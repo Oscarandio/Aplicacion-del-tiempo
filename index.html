@@ -18,7 +18,11 @@
         </div>
         <div class="weather loading">
             <h2 class="city">El tiempo en Barcelona</h2>
-            <h1 class="temp">19°C</h1>
+            <div class="temp-box">
+            <h1 class="temp" id="convertir" type="number">19</h1><span id="measure">°C</span></div>
+            <button class="farenheit" onclick="convertir(event)" name="Celsius-a-Fahrenheit">Fahrenheit</button>
+            <button class="celsius"  onclick="convertir(event)" name="Fahrenheit-a-Celsius">Celsius</button>
+
             <div class="flex">
             <img src="http://openweathermap.org/img/wn/01d.png" alt="tiempo" class="icon">
             <div class="description">Nublado</div>
@@ -27,6 +31,8 @@
             <div class="wind">Velocidad del viento: 16km/h</div>
         </div>
     </div>
+    <script src="js/conversor.js"></script>
+    <script src="js/button.js"></script>
 </body>
 
 </html>

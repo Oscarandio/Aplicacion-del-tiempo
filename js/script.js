@@ -22,11 +22,12 @@ let weather = {
         document.querySelector(".icon").src =
             "http://openweathermap.org/img/wn/" + icon + ".png";
         document.querySelector(".description").innerText = description;
-        document.querySelector(".temp").innerText = Math.trunc(temp) + "°C";
+        document.querySelector(".temp").innerText = Math.trunc(temp);
         document.querySelector(".humidity").innerText =
             "Humedad: " + humidity + "% ";
         document.querySelector(".wind").innerText =
             "Velocidad del viento: " + speed + " km/h";
+
 
         /*Esta línea hace que al cargar la página aparezca un mensaje de "cargando los datos", en caso de que la conexion sea lenta, ya que en principio pasará inadvertida */
 
@@ -123,8 +124,8 @@ if (navigator.geolocation) {
 }
 };
 
-
-    
-
     geocode.getLocation();
+
+
+
 
