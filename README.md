@@ -16,11 +16,11 @@ It also made use of geolocalization, detecting the ubication of the client and s
 
 - Show the temperature number without decimals.
 - New color in the temperature number.
+- Added the button to change Celsius into Farenheit and viceversa.
 
 
 # Next Updates
 
 - Some features can be added in the next updates, like a clock and some other weather information (precipitation).
-- A button to change Celsius into Farenheit.
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-madrid.jpg)
