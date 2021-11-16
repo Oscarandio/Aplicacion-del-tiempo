@@ -20,7 +20,7 @@ It also made use of geolocalization, detecting the ubication of the client and s
 
 ![Thumbnail](https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/updated.jpg)
 
-In this picture you can see the updated mentioned above.
+In this picture you can see the updates mentioned above.
 
 # Next Updates
 
